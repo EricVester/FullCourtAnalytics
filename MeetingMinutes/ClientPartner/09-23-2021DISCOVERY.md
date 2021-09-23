@@ -36,4 +36,4 @@ We will be using React.JS, Javascript, and Firebase as our tech stack.
 
 ## Things Clarified
 
-Meeting time for next week will either be Thursday or Friday after 1pm
+Meeting time for next week will either be Thursday 9/30 or Friday 10/1 after 1pm
